@@ -1,3 +1,5 @@
+![Preview](untitled.mp4)
+
 Lumina is a minimal AI-powered reflection and journaling app focused on privacy and simplicity.
 
 This repository is a preview only.
