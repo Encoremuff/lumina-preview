@@ -1,4 +1,4 @@
-![Preview](untitled.gif)
+![Preview](lumina-preview.gif)
 
 Lumina is a minimal AI-powered reflection and journaling app focused on privacy and simplicity.
 
